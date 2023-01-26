@@ -1,4 +1,4 @@
-# Churn_Model_using_ANN
+# Churn Model using ANN
 
 - This is a python notebook implementing Artifical Neural Network to predict wether a customer will be exiting the bank in the future or not.
 
